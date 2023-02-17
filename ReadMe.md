@@ -12,12 +12,6 @@ Hello Saya Radea Surya Ramandhita, saat ini saya berkerja sebagai seorang IT Sup
 ![](https://github-readme-streak-stats.herokuapp.com/?user=radearsr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=radearsr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=radea_surya13)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=radearsr&icon=0&color=1)](https://visitcount.itsvg.in)
 
