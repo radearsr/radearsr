@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello Saya Radea Surya Ramandhita, saat ini saya berkerja sebagai seorang IT Support di PT. Unitedtronik Perkasa Sehjahtera
+Hello Saya Radea Surya Ramandhita, saat ini saya berkerja sebagai seorang IT Developer di PT. Unitedtronik Perkasa Sehjahtera
 
 
 ## 🌐 Socials:
